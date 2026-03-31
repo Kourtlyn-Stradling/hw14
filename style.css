@@ -53,7 +53,7 @@ img {
     "mudkip mudkip"
     "piplup piplup"
     "chimchar cyndaquil"
-    "torchic torchic"
+    "torchic torchic";
   grid-template-columns: 200px 300px;
   grid-template-rows: 150px 200px 300px 200px;
   justify-items: center;
